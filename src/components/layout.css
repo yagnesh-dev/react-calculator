@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.frame{
+    height: 500px;
+    width: 30%;
+    margin: auto;
+    background: #fff ;
+    margin-top:5% ;
+    background: #e1e1e1;
+    box-shadow: 1px 1px #ddd;
+}
+.button{
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 2%;
+    height: 50px;
+    width: 60px;
+    cursor: pointer;
+}
+.keys{
+   width: 100%;
+}
+.clear{
+    background:#FF7F50 ;
+}
+.operator{
+    background: #FFD700;
+    color: #fff;
+}

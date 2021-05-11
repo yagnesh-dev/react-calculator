@@ -1,0 +1,10 @@
+.screen{
+    width: 86%;
+    background: rgb(8, 168, 226);
+    color: #fff;
+    font-size: 45px;
+    border: transparent;
+    border-radius: 2px;
+    padding: 12px;
+    margin: 1px;
+}
